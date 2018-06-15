@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="name">Name</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="quantityTxt">Quantity</string>
+    <string name="order">order</string>
+    <string name="price">Kshs. %1$d</string>
 </resources>
